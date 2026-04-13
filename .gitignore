@@ -1,49 +1,5 @@
-### IntelliJ IDEA ###
-out/
-!**/src/main/**/out/
-!**/src/test/**/out/
-.kotlin
-
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
-
-# Ignore IntelliJ IDEA files
 .idea/
 *.iml
-out/
-gen/
-
-# Ignore Compiled Java files
-*.class
-*.jar
-*.war
-
-# Ignore Build Tool folders
 target/
-.gradle/
-build/
-
-# Ignore Mac System files
+out/
 .DS_Store
